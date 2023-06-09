@@ -11,7 +11,8 @@ What do computer scientists do, and why does it matter? How would your work on t
 
 
 
-Uploading Screen Recording 2023-06-08 at 1.17.43 PM.mov…
+
+https://github.com/912James/CS-340-Client-Server-Development/assets/106783575/58f94ecc-13aa-4bdc-80cf-b841d02229a0
 
 
 
