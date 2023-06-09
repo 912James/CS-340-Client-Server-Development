@@ -11,4 +11,8 @@ What do computer scientists do, and why does it matter? How would your work on t
 
 
 
+Uploading Screen Recording 2023-06-08 at 1.17.43 PM.mov…
+
+
+
 https://youtu.be/REJtGq1ln8Q
