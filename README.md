@@ -12,7 +12,7 @@ The approach I take when I encounter a problem is to first look for where the er
 
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-
+The project I created for Grazioso Salvare allows them to have an up to date dashbaord of all the rescue animals in the AAC database with widgets showing relatable information to their needs. That allows Grazioso to be more productive while having the most comprehensive and updated information on every dog in their system. The role of a computer scientist can be quite robust in the sense that they work across various domains such as algorithmic theory, programming languages, computer graphics, artificial intelligence, network design, databases,etc. They are expected to be versatile, adaptable, and resiliant to the dynamic and challenging issues that arise in these areas. 
 
 
 https://github.com/912James/CS-340-Client-Server-Development/assets/106783575/58f94ecc-13aa-4bdc-80cf-b841d02229a0
